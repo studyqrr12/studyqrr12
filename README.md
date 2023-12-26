@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+개인 포트폴리오용 계정입니다. 메인 계정이 아니므로 응답이 늦을 수 있습니다.
+
 <!--
 **studyqrr12/studyqrr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
