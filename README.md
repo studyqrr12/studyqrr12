@@ -7,6 +7,10 @@
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=FFFFFF)](#)
 
+### Repository
+[studyqrr12/study](https://github.com/studyqrr12/study)<br/>
+공부 기록 Repository 입니다.
+
 <!--
 **studyqrr12/studyqrr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
