@@ -8,7 +8,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=FFFFFF)](#)
 
 ### Repository
-[studyqrr12/study](https://github.com/studyqrr12/study)<br/>
+[studyqrr12/TIL](https://github.com/studyqrr12/TIL)<br/>
 공부 기록 Repository 입니다.
 
 <!--
