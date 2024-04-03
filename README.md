@@ -14,7 +14,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)](#)
 
 ### 블로그
-(개발예정) https://studyqrr12.kr
+[https://studyqrr12.kr](https://studyqrr12.kr)
 
 ### Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF)](#)
