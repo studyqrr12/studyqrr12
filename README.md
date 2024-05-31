@@ -2,6 +2,24 @@
 
 안녕하세요, 웹개발자 studyqrr12 입니다.
 
+### Skills
+
+#### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+
+#### Frontend Technologies
+[![Frontend Technologies](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=docker,spring,express,nodejs)](https://skillicons.dev)
+
+#### Database & Tools
+[![Database & Tools](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
+
+#### Other tools & Technologies
+[![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vscode,gitlab,githubactions)](https://skillicons.dev)
+
+
 ### Platforms & Languages
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF)](#)
